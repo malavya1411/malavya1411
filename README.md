@@ -1,6 +1,6 @@
 <!-- Profile README -->
 
-<h1 align="center">👋 Hey there, I'm<span style="color:#7F00FF;">Malavya Mankar</span></h1>
+<h1 align="center">👋 Hey there, I'm <span style="color:#7F00FF;">Malavya Mankar</span></h1>
 <h3 align="center">🎓 B.Tech in AI & Data Science | ☕ Java Enthusiast | 🌐 Web Dev Learner</h3>
 
 <p align="center">
@@ -14,7 +14,6 @@
 - 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science**  
 - 💻 Learning **Java**, **Python**, and **Web Development**  
 - 🧠 Exploring **Machine Learning** & **Data Science Projects**  
-- ⚡ Fun Fact: *My code is clean, my coffee is strong, and my dreams are in 4K.*  
 
 ---
 
