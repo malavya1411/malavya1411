@@ -1,6 +1,6 @@
 <!-- Profile README -->
 
-<h1 align="center">👋 Hey there, I'm Malavya Mankar<span style="color:#7F00FF;">Malavya Mankar</span></h1>
+<h1 align="center">👋 Hey there, I'm<span style="color:#7F00FF;">Malavya Mankar</span></h1>
 <h3 align="center">🎓 B.Tech in AI & Data Science | ☕ Java Enthusiast | 🌐 Web Dev Learner</h3>
 
 <p align="center">
