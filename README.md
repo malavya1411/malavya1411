@@ -93,7 +93,7 @@ I am a passionate developer focused on building efficient software solutions and
 
 ---
 
-#  GitHub Stats:
+# 📊 GitHub Stats:
 <div align="center">
  
 ![](https://github-readme-stats.shion.dev/api?username=malavya1411&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
