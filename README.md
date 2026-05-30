@@ -2,7 +2,7 @@
 <div align="center">
  
 <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=52&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=860&height=120&lines=MALAVYA+MANKAR" alt="Malavya Mankar"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=860&height=30&lines=AI+%26+Data+Science+Engineer+%7C+Hackathon+Builder+%7C+VESIT+Mumbai" alt="subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=860&height=30&lines=AI+%26+Data+Science+Engineer+%7C+Project+Builder+%7C+VESIT+Mumbai" alt="subtitle" />
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=malavya1411&color=7F00FF&style=flat-square&label=Profile+Views)](https://github.com/malavya1411)
@@ -103,6 +103,7 @@ I am a passionate developer focused on building efficient software solutions and
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=malavya1411&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
+
 ---
 
 ## 🌎 Connect
