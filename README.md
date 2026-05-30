@@ -100,14 +100,12 @@ focus      : Full-Stack AI Systems · RAG Pipelines · Agentic Workflows
 ---
 
 # 📊 GitHub Stats:
+<div align="center">
 ![](https://github-readme-stats.shion.dev/api?username=malavya1411&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=malavya1411&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=malavya1411&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=malavya1411&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
+</div>
 ---
 
 ## 🌎 Connect
