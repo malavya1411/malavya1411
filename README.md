@@ -3,15 +3,11 @@
 <div align="center">
 
 ```
-##     ##    ###    ##          ###    ##     ## ##    ##    ###   
-###   ###   ## ##   ##         ## ##   ##     ##  ##  ##    ## ##  
-#### ####  ##   ##  ##        ##   ##  ##     ##   ####    ##   ## 
-## ### ## ##     ## ##       ##     ## ##     ##    ##    ##     ##
-##     ## ######### ##       #########  ##   ##     ##    #########
-##     ## ##     ## ##       ##     ##   ## ##      ##    ##     ##
-##     ## ##     ## ######## ##     ##    ###       ##    ##     ##
+ __  __    _    _       _   __   ____   __   _   
+|  \/  |  /_\  | |     /_\  \ \ / /\ \ / /  /_\  
+| |\/| | / _ \ | |__  / _ \  \ V /  \ V /  / _ \ 
+|_|  |_|/_/ \_\|____|/_/ \_\  \_/    |_|  /_/ \_\
 ```
-
 ### `M A N K A R`
 
 <h4>AI & Data Science Engineer · Hackathon Builder · VESIT Mumbai</h4>
@@ -32,9 +28,7 @@ name       : Malavya Mankar
 degree     : B.E. in Artificial Intelligence & Data Science @ VESIT, Mumbai
 year       : First Year  |  CGPA: 9.73
 team       : AlgoMinds (competitive hackathon team)
-orgs       : ISTE VESIT  ·  AI CoLegion
 focus      : Full-Stack AI Systems · RAG Pipelines · Agentic Workflows
-interests  : Hackathons · DSA (Java) · AI Art · PCB Design
 ```
 
 ---
@@ -105,16 +99,14 @@ interests  : Hackathons · DSA (Java) · AI Art · PCB Design
 
 ---
 
-## 📈 GitHub Insights
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=malavya1411&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=malavya1411&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=malavya1411&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malavya1411&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malavya1411&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+---
+[![](https://komarev.com/ghpvc/?username=malavya1411&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malavya1411&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
-</p>
 
 ---
 
