@@ -85,9 +85,9 @@ I am a passionate developer focused on building efficient software solutions and
 
 | 🚀 Project | 📋 Description | 🔗 |
 |:---:|:---|:---:|
-| **OnboardAI** | Autonomous dev onboarding agent · 3-tier RAG · Slack · GitHub issues · **Syrus 2026 Top 6** | [→ Live](https://onboardai.vercel.app) |
-| **GitStat** | GitHub contributor health dashboard · AI insights · OAuth · **Hackathon Runner-Up** | [→ Live](https://gitstat.vercel.app) |
-| **Portfolio** | Personal portfolio site built with Next.js · Cinematic UI | [→ Live](https://malavya.vercel.app) |
+| **OnboardAI** | Autonomous dev onboarding agent · 3-tier RAG · Slack · GitHub issues · **Syrus 2026 Top 6** | [→ Live]() |
+| **GitStat** | GitHub contributor health dashboard · AI insights · OAuth · **Hackathon Runner-Up** | [→ Live]([https://gitstat.vercel.app](https://git-stat-olive.vercel.app/)) |
+| **Portfolio** | Personal portfolio site built with Next.js · Cinematic UI | [→ Live]([https://malavya.vercel.app](https://portfolio-sigma-navy-hx9lng5dcr.vercel.app/)) |
 
 </div>
 
