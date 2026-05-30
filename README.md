@@ -3,24 +3,21 @@
 <div align="center">
 
 ```
-██████████████████████████████████████████████████████
-█                                                    █
-█   ███╗   ███╗ █████╗ ██╗      █████╗ ██╗   ██╗   █
-█   ████╗ ████║██╔══██╗██║     ██╔══██╗██║   ██║   █
-█   ██╔████╔██║███████║██║     ███████║██║   ██║   █
-█   ██║╚██╔╝██║██╔══██║██║     ██╔══██║╚██╗ ██╔╝   █
-█   ██║ ╚═╝ ██║██║  ██║███████╗██║  ██║ ╚████╔╝    █
-█   ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝  ╚═══╝    █
-█                                                    █
-█                  M A N K A R                      █
-██████████████████████████████████████████████████████
+##     ##    ###    ##          ###    ##     ## ##    ##    ###   
+###   ###   ## ##   ##         ## ##   ##     ##  ##  ##    ## ##  
+#### ####  ##   ##  ##        ##   ##  ##     ##   ####    ##   ## 
+## ### ## ##     ## ##       ##     ## ##     ##    ##    ##     ##
+##     ## ######### ##       #########  ##   ##     ##    #########
+##     ## ##     ## ##       ##     ##   ## ##      ##    ##     ##
+##     ## ##     ## ######## ##     ##    ###       ##    ##     ##
 ```
 
-<h3>AI & Data Science Engineer · Hackathon Builder · VESIT Mumbai</h3>
+### `M A N K A R`
+
+<h4>AI & Data Science Engineer · Hackathon Builder · VESIT Mumbai</h4>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=malavya1411&label=Profile+Views&color=7F00FF&style=flat-square" />
-  <img src="https://img.shields.io/badge/CGPA-9.73-blueviolet?style=flat-square" />
   <img src="https://img.shields.io/badge/Syrus%202026-Top%206%20Finalist-gold?style=flat-square" />
 </p>
 
@@ -37,7 +34,7 @@ year       : First Year  |  CGPA: 9.73
 team       : AlgoMinds (competitive hackathon team)
 orgs       : ISTE VESIT  ·  AI CoLegion
 focus      : Full-Stack AI Systems · RAG Pipelines · Agentic Workflows
-interests  : Hackathons · DSA (Java) · Video Editing · AI Art · PCB Design
+interests  : Hackathons · DSA (Java) · AI Art · PCB Design
 ```
 
 ---
@@ -89,75 +86,22 @@ interests  : Hackathons · DSA (Java) · Video Editing · AI Art · PCB Design
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" />
 </p>
 
 ---
 
 ## 🏆 Featured Projects
 
-### 🥇 [OnboardAI](https://github.com/malavya1411) — Syrus 2026 · Top 6 Finalist
-> Autonomous developer onboarding agent with a 3-tier RAG knowledge system
+<div align="center">
 
-Built with **Next.js 15** · **Gemini API** · **Vector Embeddings** · **Supabase**
+| 🚀 Project | 📋 Description | 🔗 |
+|:---:|:---|:---:|
+| **OnboardAI** | Autonomous dev onboarding agent · 3-tier RAG · Slack · GitHub issues · **Syrus 2026 Top 6** | [→ Live](https://onboardai.vercel.app) |
+| **GitStat** | GitHub contributor health dashboard · AI insights · OAuth · **Hackathon Runner-Up** | [→ Live](https://gitstat.vercel.app) |
+| **Portfolio** | Personal portfolio site built with Next.js · Cinematic UI | [→ Live](https://malavya.vercel.app) |
 
-- Multi-source RAG (codebase docs, company wikis, past tickets)  
-- GitHub issue auto-creation from detected knowledge gaps  
-- Slack Block Kit interactive onboarding flows  
-- SMTP email delivery via Nodemailer · Local environment verification agent
-
----
-
-### 🥈 [GitStat](https://github.com/malavya1411) — Hackathon Runner-Up
-> GitHub contributor health dashboard with AI-generated insights
-
-Built with **React/Vite** · **Node/Express** · **Supabase** · **Gemini 1.5 Flash**
-
-- GitHub OAuth authentication with cross-origin Bearer token flow  
-- Contributor activity analytics with trend visualisation  
-- AI-generated health summaries per developer
-
----
-
-### 🔍 [AI Finder](https://github.com/malavya1411/AI-FINDER)
-> Curated AI tool discovery SaaS — 80+ agents in a searchable database
-
-Built with **React** · **TypeScript** · **Vite** · **Gemini API**
-
-- Deep navy glassmorphism UI  
-- Rate limiting · Input validation · Security hardening  
-- React Native Expo mobile version
-
----
-
-### 🚨 [CrisisSync](https://github.com/malavya1411) — Google Solution Challenge 2026
-> Real-time AI emergency coordination platform for hospitality venues
-
-Built with **Flutter** · **Firebase** · **Gemini AI** · **Google Maps SDK**
-
-- Live incident detection and staff dispatch  
-- Multi-role dashboard (security, management, emergency services)
-
----
-
-### 📦 [JR-06](https://github.com/malavya1411) — Invictus Hackathon @ ISTE-VESIT
-> PCB inventory management system with live tracking and role-based access
-
-Built with **React** · **Node/Express** · **PostgreSQL** · **JWT** · **Recharts**
-
-- Full CRUD inventory with component-level tracing  
-- Role-based access control · Recharts analytics dashboard
-
----
-
-### ✋ [HandDraw](https://github.com/malavya1411)
-> Browser-based hand-gesture drawing — no backend, no install
-
-Built with **MediaPipe Hands** · **HTML5 Canvas**
-
-- Pinch-to-draw detection · Neon brush effect · Fully client-side
+</div>
 
 ---
 
@@ -171,14 +115,6 @@ Built with **MediaPipe Hands** · **HTML5 Canvas**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malavya1411&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
 </p>
-
----
-
-## 🔭 Currently
-
-- 📚 Grinding **DSA in Java** — LeetCode · Striver's A2Z · NeetCode
-- 🏗️ Planning **InterviewOS** — next build in the pipeline
-- 🎓 Semester 2 exams · Maths · BEE · Physics · Engineering Mechanics
 
 ---
 
