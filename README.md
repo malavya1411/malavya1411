@@ -1,21 +1,11 @@
 <!-- Profile README -->
-
 <div align="center">
+ 
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=52&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=860&height=120&lines=MALAVYA+MANKAR" alt="Malavya Mankar"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=860&height=30&lines=AI+%26+Data+Science+Engineer+%7C+Hackathon+Builder+%7C+VESIT+Mumbai" alt="subtitle" />
+<br/>
 
-```
- __  __    _    _       _   __   ____   __   _   
-|  \/  |  /_\  | |     /_\  \ \ / /\ \ / /  /_\  
-| |\/| | / _ \ | |__  / _ \  \ V /  \ V /  / _ \ 
-|_|  |_|/_/ \_\|____|/_/ \_\  \_/    |_|  /_/ \_\
-```
-### `M A N K A R`
-
-<h4>AI & Data Science Engineer · Hackathon Builder · VESIT Mumbai</h4>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=malavya1411&label=Profile+Views&color=7F00FF&style=flat-square" />
-  <img src="https://img.shields.io/badge/Syrus%202026-Top%206%20Finalist-gold?style=flat-square" />
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=malavya1411&color=7F00FF&style=flat-square&label=Profile+Views)](https://github.com/malavya1411)
 
 </div>
 
@@ -23,13 +13,17 @@
 
 ## ⚡ About Me
 
-```yaml
-name       : Malavya Mankar
-degree     : B.E. in Artificial Intelligence & Data Science @ VESIT, Mumbai
-year       : First Year  |  CGPA: 9.73
-team       : AlgoMinds (competitive hackathon team)
-focus      : Full-Stack AI Systems · RAG Pipelines · Agentic Workflows
-```
+I'm **Malavya Mankar**
+
+🎓 B.Tech in Artificial Intelligence & Data Science
+
+I am a passionate developer focused on building efficient software solutions and continuously expanding my technical expertise.
+
+### 🚀 Currently Focusing on:
+- Java Programming & Object-Oriented Design
+- Data Structures & Algorithms (DSA)
+- Full-Stack Web Development
+- Problem Solving & Project Building
 
 ---
 
