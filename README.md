@@ -85,6 +85,8 @@ I am a passionate developer focused on building efficient software solutions and
 
 | 🚀 Project | 📋 Description | 🔗 |
 |:---:|:---|:---:|
+| **InboxOS** | AI-powered inbox operating system · Founder & Lead Developer · Gmail OAuth, automated triage, and digest workflows built on Express, Prisma, and Redis | [→ Live](https://inbox-os-frontend-lqrb.vercel.app/) |
+| **Code Explainer** | CodeExplainer converts complex code into interactive explanations,visual walkthroughs,optimization insights,helping developers understand,learn and improve code faster. | [→ Live](https://code-explainer-flame.vercel.app/) |
 | **OrbitalWatch** | Advanced Space Situational Awareness (SSA) & Space Traffic Control platform · Real time orbital tracking · Conjunction risk analysis · Interactive 3D WebGL Earth · Collision monitoring | [→ Live](https://orbital-watch-bay.vercel.app/) |
 | **GitStat** | GitHub contributor health dashboard · AI insights · OAuth · **Hackathon Runner-Up** | [→ Live](https://git-stat-olive.vercel.app/) |
 | **Portfolio** | Personal portfolio site built with Next.js · Cinematic UI | [→ Live](https://portfolio-sigma-navy-hx9lng5dcr.vercel.app/) |
