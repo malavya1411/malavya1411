@@ -95,14 +95,18 @@ I am a passionate developer focused on building efficient software solutions and
 
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
+
 <div align="center">
- 
-![](https://github-readme-stats.shion.dev/api?username=malavya1411&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
-![](https://streak-stats.demolab.com/?user=malavya1411&theme=dark&hide_border=false)<br/>
+<table>
+<tr>
+<td><img src="https://github-readme-stats.shion.dev/api?username=malavya1411&theme=dark&hide_border=true&include_all_commits=true&count_private=false" width="420" /></td>
+<td><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=malavya1411&theme=dark&hide_border=true&layout=compact" width="420" /></td>
+</tr>
+</table>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=malavya1411&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=malavya1411&theme=dark&hide_border=true" width="500" />
 
 </div>
 
