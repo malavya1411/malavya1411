@@ -27,6 +27,18 @@ I am a passionate developer focused on building efficient software solutions and
 
 ---
 
+### ◆ Recognition
+
+| Competition / Achievement | Result | Scale |
+| :--- | :--- | :--- |
+| 🏆 **Syrus 7.0 Hackathon** | **Winner (1st Place)** | 1,244 participants |
+| 🏆 **Unimerge Hackathon** | **Runner-up (2nd Place)** | 152 participants |
+| 🏆 **ISTE VESIT Ideathon** | **Winner (1st Place)** | Flagship Innovation Track |
+| 🏆 **Hack-On-Track Hackathon** | **Top 10 Finalist** | 1,026 participants |
+| 🏆 **Faraway International Hackathon** | **Semi-Finalist** | 12,847 participants |
+| 🏆 **Syrus 6.0 Hackathon** | **Top 6 Finalist** | 684 participants |
+
+---
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend & Mobile
